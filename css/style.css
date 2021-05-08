@@ -575,6 +575,10 @@ body.menu-open {
   text-transform: uppercase;
 }
 
+.header-contact .lg-text {
+  line-height: 4.8rem;
+}
+
 .extra-lg-text span {
   display: inline-block;
   font-family: "Lalezar", cursive;
@@ -1721,6 +1725,10 @@ body.menu-open {
     line-height: 2.8rem;
   }
 
+  .header-contact .lg-text {
+    line-height: 3.8rem;
+  }
+
   .normal-text p {
     font-size: 1.1rem;
     line-height: 1.8rem;
@@ -2083,6 +2091,11 @@ body.menu-open {
   .lg-text {
     font-size: 2.6rem;
     line-height: 1.9rem;
+  }
+
+
+  .header-contact .lg-text {
+    line-height: 2.2rem;
   }
 
   .normal-text p {
