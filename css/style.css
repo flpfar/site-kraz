@@ -853,6 +853,10 @@ body.menu-open {
     margin-bottom: 5rem;
 }
 
+.default-content .fa-instagram {
+  margin-right: 0.5rem;
+}
+
 .lg-text {
     color: #fff;
     text-align: center;
