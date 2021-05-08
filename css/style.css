@@ -556,7 +556,7 @@ body.menu-open {
     color: #fff;
     text-align: center;
     font-family: "Lalezar", cursive;
-    font-size: 6.9rem;
+    font-size: 6rem;
     line-height: 5rem;
     text-transform: uppercase;
 }
@@ -569,6 +569,11 @@ body.menu-open {
 .extra-lg-text .other-color {
     color: #4ECCA3;
     font-family: "Lalezar", cursive;
+}
+
+.header-text-logo {
+  margin-top: 32px;
+  width: 40vw;
 }
 
 /*
@@ -2328,7 +2333,7 @@ body.menu-open {
 
     .extra-lg-text {
         font-size: 2.8rem;
-        line-height: 2rem;
+        line-height: 2.8rem;
     }
 
     .boxy {

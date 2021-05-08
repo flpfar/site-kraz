@@ -26,14 +26,14 @@
 
 .cr-btn.primary {
     color: #fff;
-    -webkit-box-shadow: inset 0 0 0 0.28rem #FFF96C;
-    box-shadow: inset 0 0 0 0.28rem #FFF96C;
+    -webkit-box-shadow: inset 0 0 0 0.28rem #fccd06;
+    box-shadow: inset 0 0 0 0.28rem #fccd06;
 }
 
 .cr-btn.primary:hover, .cr-btn.primary:focus {
     color: #fff;
-    -webkit-box-shadow: inset 0 0 0 3.25rem #FFF96C;
-    box-shadow: inset 0 0 0 3.25rem #FFF96C;
+    -webkit-box-shadow: inset 0 0 0 3.25rem #fccd06;
+    box-shadow: inset 0 0 0 3.25rem #fccd06;
 }
 
 .cr-btn.black {
@@ -49,11 +49,11 @@
 }
 
 .menu-toggle .icon {
-    background-color: #FFF96C;
+    background-color: #fccd06;
 }
 
 .menu-toggle .icon:before, .menu-toggle .icon:after {
-    background-color: #FFF96C;
+    background-color: #fccd06;
 }
 
 .main-menu {
@@ -69,7 +69,7 @@
 }
 
 .main-menu .contant-info div a:hover, .main-menu .contant-info div a:focus {
-    color: #FFF96C;
+    color: #fccd06;
 }
 
 .main-menu .menu-links ul li a {
@@ -100,7 +100,7 @@
 }
 
 .header {
-    background-color: #5A6771;
+    background-color: #000;
 }
 
 .header .mouse-scroll {
@@ -118,7 +118,7 @@
 }
 
 .extra-lg-text .other-color {
-    color: #FFF96C;
+    color: #fccd06;
 }
 
 /* -----------------------------------
@@ -161,7 +161,7 @@
 }
 
 .boxy.primary-color {
-    background-color: #FFF96C;
+    background-color: #fccd06;
 }
 
 .boxy.primary-color h1.title {
@@ -240,7 +240,7 @@
 }
 
 .lg-text .other-color {
-    color: #FFF96C;
+    color: #fccd06;
 }
 
 .normal-text p {
@@ -252,7 +252,7 @@
 }
 
 .slg-text .other-color {
-    color: #FFF96C;
+    color: #fccd06;
 }
 
 .normal-lg-text p {
@@ -282,7 +282,7 @@
     6 - Other Content Styles
 ------------------------------------*/
 .other-content {
-    background-color: #FFF96C;
+    background-color: #fccd06;
 }
 
 .other-content .lg-text {
@@ -462,7 +462,7 @@
 }
 
 .social-row .social-media .social-link-holder a:hover, .social-row .social-media .social-link-holder a:focus {
-    color: #FFF96C;
+    color: #fccd06;
 }
 
 /* -----------------------------------
@@ -500,7 +500,7 @@
 }
 
 .footer .lg-text {
-    color: #FFF96C;
+    color: #fccd06;
 }
 
 .footer p {
@@ -520,7 +520,7 @@
 }
 
 .footer .contact-info-holder .contact-info a:hover, .footer .contact-info-holder .contact-info a:focus {
-    color: #FFF96C;
+    color: #fccd06;
 }
 
 .footer .contact-info-holder .social-media .social-link-holder a {
