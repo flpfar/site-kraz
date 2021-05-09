@@ -23,7 +23,7 @@
 9. Jobs Section Styles
 10. Blog Section Styles
 11. Post Section Styles
-12. Few Contact Styles
+12. Form Contact Styles
 13. Jobs Section Styles
 14. Social Row Styles
 15. Project Info Styles
@@ -56,6 +56,11 @@ h4,
 h5,
 h6 {
   font-family: "Lalezar", cursive;
+}
+
+button {
+  border: none;
+  background: transparent;
 }
 
 .cr-btn {
@@ -1385,41 +1390,36 @@ body.menu-open {
 }
 
 /* -----------------------------------
-    12 - Few Contact Styles
+    12 - Form Contact Styles
 ------------------------------------*/
-.few-contact {
+.form-contact {
   padding: 4rem 8rem;
-  background-color: #fff;
+  background-color: #fccd06;
 }
 
-.few-contact .contact-info-holder {
-  text-align: left;
+.form-contact .normal-text p {
+  color: #212221;
+  text-align: center;
 }
 
-.few-contact .contact-info-holder .title {
-  font-family: "Lalezar", cursive;
-  font-size: 1.6rem;
-  color: #777a80;
+.form-contact form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
-.few-contact .contact-info-holder .contact-info {
-  font-family: "Lalezar", cursive;
-  color: #232931;
-  font-size: 4.8rem;
+.form-contact form input,
+.form-contact form textarea {
+  border: none;
+  margin: 0.2rem 0;
+  padding: 0.6rem 1rem;
+  border-radius: 16px;
 }
 
-.few-contact .contact-info-holder .contact-info a {
-  font-family: "Lalezar", cursive;
-  color: #4ecca3;
-  font-size: 4.8rem;
-  -webkit-transition: all 0.3s ease;
-  transition: all 0.3s ease;
-}
-
-.few-contact .contact-info-holder .contact-info a:hover,
-.few-contact .contact-info-holder .contact-info a:focus {
-  color: #777a80;
-  text-decoration: none;
+.form-contact .cr-btn {
+  padding: 0.8rem 2rem;
+  margin-top: 0.5rem;
+  cursor: pointer;
 }
 
 /* -----------------------------------
@@ -1655,12 +1655,12 @@ body.menu-open {
   }
 
   .footer .contact-info-holder .contact-info,
-  .few-contact .contact-info-holder .contact-info {
+  .form-contact .contact-info-holder .contact-info {
     font-size: 4rem;
   }
 
   .footer .contact-info-holder .contact-info a,
-  .few-contact .contact-info-holder .contact-info a {
+  .form-contact .contact-info-holder .contact-info a {
     font-size: 4rem;
   }
 
@@ -2263,25 +2263,12 @@ body.menu-open {
     padding: 3rem 5rem;
   }
 
-  .few-contact {
+  .form-contact {
     padding: 4rem 2rem;
   }
 
-  .few-contact .contact-info-holder {
-    text-align: center;
-  }
-
-  .few-contact .contact-info-holder .title {
-    font-size: 1.8rem;
-  }
-
-  .few-contact .contact-info-holder .contact-info {
-    font-size: 2.2rem;
-    margin-bottom: 0;
-  }
-
-  .few-contact .contact-info-holder .contact-info a {
-    font-size: 2.2rem;
+  .form-contact .required-fields {
+    font-size: 0.8rem;
   }
 
   .our-people-section {

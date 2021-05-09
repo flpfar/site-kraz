@@ -36,11 +36,11 @@ $(window).on("load", function() {
     }
 
     // After the page loaded check if the window scroll is over the 'header' height and add 'blend' class
-    if(window.scrollY>(header.outerHeight()-cnav.outerHeight())){
-        cnav.addClass('blend');
-    }else{
-        cnav.removeClass('blend');
-    }
+    // if(window.scrollY>(header.outerHeight()-cnav.outerHeight())){
+    //     cnav.addClass('blend');
+    // }else{
+    //     cnav.removeClass('blend');
+    // }
 
     // Check and add classes while scrolling for the same last three object
     $(window).on("scroll", function(){
