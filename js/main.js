@@ -52,11 +52,11 @@ $(window).on("load", function() {
         if(window.scrollY>50){
             mouseScroll.addClass('hide');
         }
-        if(window.scrollY>(header.outerHeight()-cnav.outerHeight())){
-            cnav.addClass('blend');
-        }else{
-            cnav.removeClass('blend');
-        }
+        // if(window.scrollY>(header.outerHeight()-cnav.outerHeight())){
+        //     cnav.addClass('blend');
+        // }else{
+        //     cnav.removeClass('blend');
+        // }
     });
 
     // Menu Toggle and animate the link using AnimeJS
