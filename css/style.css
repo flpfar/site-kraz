@@ -1585,13 +1585,13 @@ body.menu-open {
 .footer .contact-info-holder .contact-info {
   font-family: "Lalezar", cursive;
   color: #fff;
-  font-size: 4.8rem;
+  font-size: 3.2rem;
 }
 
 .footer .contact-info-holder .contact-info a {
   font-family: "Lalezar", cursive;
   color: #fff;
-  font-size: 4.8rem;
+  font-size: 3.2rem;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
 }
@@ -1656,12 +1656,12 @@ body.menu-open {
 
   .footer .contact-info-holder .contact-info,
   .form-contact .contact-info-holder .contact-info {
-    font-size: 4rem;
+    font-size: 2rem;
   }
 
   .footer .contact-info-holder .contact-info a,
   .form-contact .contact-info-holder .contact-info a {
-    font-size: 4rem;
+    font-size: 2rem;
   }
 
   .post-box {
