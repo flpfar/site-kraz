@@ -42,7 +42,7 @@
 
 *,
 body {
-  font-family: "Comfortaa", cursive;
+  font-family: "Comfortaa", sans-serif;
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -55,7 +55,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
 }
 
 button {
@@ -65,7 +65,7 @@ button {
 
 .cr-btn {
   display: inline-block;
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   font-size: 1.45rem;
   color: #fff;
   text-transform: uppercase;
@@ -222,13 +222,13 @@ body.menu-open {
 }
 
 .main-menu .contant-info div {
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   font-size: 1.3rem;
   color: #777a80;
 }
 
 .main-menu .contant-info div a {
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   font-size: 1.3rem;
   color: #777a80;
   -webkit-transition: all 0.3s ease;
@@ -260,7 +260,7 @@ body.menu-open {
   display: inline-block;
   font-size: 5.3rem;
   line-height: 5.3rem;
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   color: #14181c;
   text-transform: uppercase;
   -webkit-transition: all 0.5s ease;
@@ -291,7 +291,7 @@ body.menu-open {
 
 .main-menu .social-media .social-link-holder a {
   font-size: 2rem;
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   color: #a8aaad;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
@@ -343,7 +343,7 @@ body.menu-open {
 
 .cnav .social-media .social-link-holder a {
   font-size: 2rem;
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   color: #fff;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
@@ -574,7 +574,7 @@ body.menu-open {
 .extra-lg-text {
   color: #fff;
   text-align: center;
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   font-size: 6rem;
   line-height: 5rem;
   text-transform: uppercase;
@@ -586,12 +586,12 @@ body.menu-open {
 
 .extra-lg-text span {
   display: inline-block;
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
 }
 
 .extra-lg-text .other-color {
   color: #4ecca3;
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
 }
 
 .header-text-logo {
@@ -641,7 +641,7 @@ body.menu-open {
 }
 
 .boxy .text ul li {
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   text-transform: uppercase;
   font-size: 1.2rem;
 }
@@ -651,14 +651,14 @@ body.menu-open {
 }
 
 .boxy .bottom-text .link {
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   text-transform: uppercase;
   color: #fff;
   font-size: 1.3rem;
 }
 
 .boxy .bottom-text .link a {
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   text-transform: uppercase;
   color: #fff;
   font-size: 1.3rem;
@@ -886,7 +886,7 @@ body.menu-open {
 .lg-text {
   color: #fff;
   text-align: center;
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   font-size: 5.3rem;
   line-height: 4.8rem;
   text-transform: uppercase;
@@ -894,13 +894,13 @@ body.menu-open {
 }
 
 .lg-text span {
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   display: inline-block;
 }
 
 .lg-text .other-color {
   color: #4ecca3;
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
 }
 
 .normal-text p {
@@ -912,7 +912,7 @@ body.menu-open {
 .slg-text {
   color: #fff;
   text-align: center;
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   font-size: 5rem;
   line-height: 3.9rem;
   text-transform: uppercase;
@@ -920,13 +920,13 @@ body.menu-open {
 }
 
 .slg-text span {
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   display: inline-block;
 }
 
 .slg-text .other-color {
   color: #4ecca3;
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
 }
 
 .normal-lg-text {
@@ -934,14 +934,14 @@ body.menu-open {
 }
 
 .normal-lg-text p {
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   color: rgba(255, 255, 255, 0.66);
   font-size: 2.5rem;
   line-height: 3.3rem;
 }
 
 .normal-lg-text p a {
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   color: rgba(255, 255, 255, 0.66);
   font-size: 2rem;
   line-height: 3.3rem;
@@ -1053,7 +1053,7 @@ body.menu-open {
 }
 
 .text-box .title {
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   font-size: 2.4rem;
   margin-bottom: 0.8rem;
 }
@@ -1192,7 +1192,7 @@ body.menu-open {
 }
 
 .jobs-section .job-box .title {
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   font-size: 2.4rem;
   line-height: 2.5rem;
   text-transform: uppercase;
@@ -1246,7 +1246,7 @@ body.menu-open {
   display: inline-block;
   color: #232931;
   text-align: left;
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   font-size: 5.3rem;
   line-height: 3.9rem;
   text-transform: uppercase;
@@ -1312,7 +1312,7 @@ body.menu-open {
 }
 
 .post-section .post-header .post-info-holder .link-holder a {
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   font-size: 1.7rem;
   color: #393e46;
   text-transform: uppercase;
@@ -1355,7 +1355,7 @@ body.menu-open {
   display: inline-block;
   color: #232931;
   text-align: left;
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   font-size: 5.3rem;
   line-height: 3.9rem;
   text-transform: uppercase;
@@ -1458,7 +1458,7 @@ body.menu-open {
 }
 
 .our-people-section .people-box .title {
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   font-size: 2.4rem;
   line-height: 2.5rem;
   text-transform: uppercase;
@@ -1489,7 +1489,7 @@ body.menu-open {
 }
 
 .social-row .social-media .social-link-holder a {
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   font-size: 2.5rem;
   color: #fff;
   -webkit-transition: all 0.3s ease;
@@ -1577,19 +1577,19 @@ body.menu-open {
 }
 
 .footer .contact-info-holder .title {
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   font-size: 1.6rem;
   color: #777a80;
 }
 
 .footer .contact-info-holder .contact-info {
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   color: #fff;
   font-size: 3.2rem;
 }
 
 .footer .contact-info-holder .contact-info a {
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   color: #fff;
   font-size: 3.2rem;
   -webkit-transition: all 0.3s ease;
@@ -1622,7 +1622,7 @@ body.menu-open {
 
 .footer .contact-info-holder .social-media .social-link-holder a {
   font-size: 2rem;
-  font-family: "Lalezar", cursive;
+  font-family: "Lalezar", sans-serif;
   color: #fff;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
