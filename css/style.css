@@ -290,7 +290,7 @@ body.menu-open {
 }
 
 .main-menu .social-media .social-link-holder a {
-  font-size: 1.2rem;
+  font-size: 2rem;
   font-family: "Lalezar", cursive;
   color: #a8aaad;
   -webkit-transition: all 0.3s ease;
@@ -342,7 +342,7 @@ body.menu-open {
 }
 
 .cnav .social-media .social-link-holder a {
-  font-size: 1.2rem;
+  font-size: 2rem;
   font-family: "Lalezar", cursive;
   color: #fff;
   -webkit-transition: all 0.3s ease;
@@ -1621,7 +1621,7 @@ body.menu-open {
 }
 
 .footer .contact-info-holder .social-media .social-link-holder a {
-  font-size: 1.2rem;
+  font-size: 2rem;
   font-family: "Lalezar", cursive;
   color: #fff;
   -webkit-transition: all 0.3s ease;
@@ -2145,7 +2145,7 @@ body.menu-open {
   }
 
   .footer .contact-info-holder .social-media .social-link-holder a {
-    font-size: 0.9rem;
+    font-size: 1.6rem;
   }
 
   .footer.one-word {
@@ -2398,7 +2398,7 @@ body.menu-open {
   }
 
   .footer .contact-info-holder .social-media .social-link-holder a {
-    font-size: 0.7rem;
+    font-size: 1.5rem;
   }
 
   .process-section {
